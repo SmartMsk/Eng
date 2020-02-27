@@ -7,17 +7,33 @@ body {
 	width: 800px;
 }
 
+.container {
+	border: 3px solid #aff;
+}
+
 ul {
 	list-style: none
 }
 
-.header {
-	height: 3em;
+header {
+	height: 4em;
+	width: 100%;
 	background-color: #aff;
 }
 
-.kw {
+h4 {
+	padding-left: 1em;
+}
 
+.standart-phrase {
+	color: darkgreen;
+}
+
+.en {
+	color: darkblue;
+}
+
+.key-words {
 	border: 5px;
 	width: 700px;
 }
