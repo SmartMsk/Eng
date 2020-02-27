@@ -1,0 +1,18 @@
+/* * {
+	border: 1px solid black;
+} */
+
+body {
+	background-color: #cff;
+	width: 800px;
+}
+
+ul {
+	list-style: none
+}
+
+.kw {
+	background-color: #caf;
+	border: 5px;
+	width: 700px;
+}
