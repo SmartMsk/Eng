@@ -11,8 +11,13 @@ ul {
 	list-style: none
 }
 
+.header {
+	height: 3em;
+	background-color: #aff;
+}
+
 .kw {
-	background-color: #caf;
+
 	border: 5px;
 	width: 700px;
 }
