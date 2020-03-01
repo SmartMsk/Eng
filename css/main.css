@@ -17,47 +17,8 @@ header,
 }
 
 /* должно склывать цвет навигации при верху страницы */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
 	.navbar:not(.top-nav-collapse) {
 		background: #24355c;
 	}
-}
-
-*/ .adress-nav {
-	/* color: white; */
-	font-size: 0.9em;
-}
-
-.intro {
-	margin: 0px;
-	position: relative;
-}
-
-.intro img {
-	/* picture */
-	opacity: 95%;
-}
-
-.intro .text__intro {
-	position: absolute;
-	bottom: 0;
-	padding: 50px;
-}
-
-@media (max-width: 768px) {
-	.display-3 {
-		font-size: 2rem;
-	}
-
-
-	.intro {
-		padding: 4rem, 0, 0, 0, 4rem !important;
-		margin: 0;
-	}
-
-	.intro img {
-		object-fit: cover;
-		padding: 0;
-		margin: 2rem, 0, 2rem, 0;
-	}
-}
+} */
