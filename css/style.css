@@ -1,15 +1,19 @@
-/* * {
+/* 
+* {
 	border: 1px solid black;
+}  */
+
+/* 
+.container {
+	border: 3px solid #aff;
 } */
+
 
 body {
 	background-color: rgb(250, 245, 250);
 	width: 800px;
 }
 
-.container {
-	border: 3px solid #aff;
-}
 
 ul {
 	list-style: none
