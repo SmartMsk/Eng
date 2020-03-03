@@ -13,16 +13,20 @@ body {
 	width: 800px;
 }
 
+.bg-light-1 {
+	background-color: rgb(235, 235, 235);
+	;
+}
 
 ul {
 	list-style: none
 }
 
-header {
+/* header {
 	height: 4em;
 	width: 100%;
 	background-color: #aff;
-}
+} */
 
 h4 {
 	padding-left: 1em;
