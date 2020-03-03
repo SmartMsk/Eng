@@ -6,6 +6,11 @@ body {
 	letter-spacing: 0.25rem;
 }
 
+.navbar {
+	background-color: rgba(24, 52, 70, 0.8);
+
+}
+
 .view {
 	height: 100vh;
 	/* background-image: url(/img/art1.jpg) no-repeat center; */
