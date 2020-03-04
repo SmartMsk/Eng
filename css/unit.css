@@ -8,20 +8,21 @@
 } */
 
 
-.bg-1 {
+/* .bg-1 {
 	background-color: rgba(220, 220, 220, 0.4);
 	margin-right: -15px;
 	margin-left: -15px;
 	padding-right: 8px;
 	padding-left: 8px;
+	display: inline-block;
+} */
 
-}
-
+/* второй тип фона,
+не получается - margin p выходит за рамки div и некрасиво пустые места.  */
 .bg-2 {
 	background-color: rgb(240, 255, 255);
 	width: 100vmin;
 }
-
 
 ul {
 	list-style: none

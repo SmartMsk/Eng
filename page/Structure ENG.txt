@@ -1,3 +1,5 @@
+Описание в readme.md
+Сделать 2 страницы и на них отработать верстку, логину, JS. взаимосвязь вопросов и ответов. 
 
 https://smartmsk.github.io/Eng-KESPA/Pages/L01.html
 
