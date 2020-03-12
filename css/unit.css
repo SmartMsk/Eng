@@ -60,3 +60,13 @@ h4 {
 .en {
 	color: darkblue;
 }
+
+/* CSS - для Содержания - Content */
+.content a {
+	margin-top: 0.75rem;
+}
+
+.cont {
+	background-color: wheat;
+	height: 100vh;
+}
