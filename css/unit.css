@@ -31,10 +31,10 @@ h4 {
 
 
 /* Текстовые модификаторы */
-.SoT,
-.FT,
-.Question,
-.Negative {
+.sot,
+.ft,
+.question,
+.negative {
 	font-weight: 600;
 }
 
