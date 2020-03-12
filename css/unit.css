@@ -1,30 +1,41 @@
 .container {
-	max-width: 1100px;
+	max-width: 992px;
 }
 
 .bg-1 {
 	background-color: rgba(220, 220, 220, 0.4);
 }
 
-/* второй тип фона,
-не получается - margin p выходит за рамки div и некрасиво пустые места.  */
 .bg-2 {
 	background-color: rgb(240, 255, 255);
 }
 
 ul {
-	list-style: none
+	list-style: none;
+	padding-inline-start: 1.25em;
 }
 
-/* header {
-	height: 4em;
-	width: 100%;
-	background-color: #aff;
-} */
+section {
+	margin-right: -15px;
+	margin-left: -15px;
+	padding-left: 15px;
+}
 
 h4 {
 	margin-top: 1rem;
+	margin-bottom: 0;
 	padding-left: 1em;
+	padding-bottom: 0.5rem;
+}
+
+
+
+/* Текстовые модификаторы */
+.SoT,
+.FT,
+.Question,
+.Negative {
+	font-weight: 600;
 }
 
 .standart-phrase {
@@ -40,10 +51,4 @@ h4 {
 
 .en {
 	color: darkblue;
-}
-
-.SoT,
-.FT,
-.Question {
-	font-weight: 600;
 }
