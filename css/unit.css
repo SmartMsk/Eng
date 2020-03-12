@@ -1,27 +1,15 @@
-/* * {
-	border: 1px solid black;
-} */
-
-/* 
 .container {
-	border: 3px solid #aff;
-} */
+	max-width: 1100px;
+}
 
-
-/* .bg-1 {
+.bg-1 {
 	background-color: rgba(220, 220, 220, 0.4);
-	margin-right: -15px;
-	margin-left: -15px;
-	padding-right: 8px;
-	padding-left: 8px;
-	display: inline-block;
-} */
+}
 
 /* второй тип фона,
 не получается - margin p выходит за рамки div и некрасиво пустые места.  */
 .bg-2 {
 	background-color: rgb(240, 255, 255);
-	width: 100vmin;
 }
 
 ul {
@@ -35,13 +23,27 @@ ul {
 } */
 
 h4 {
+	margin-top: 1rem;
 	padding-left: 1em;
 }
 
 .standart-phrase {
 	color: darkgreen;
+	text-transform: uppercase;
+
+}
+
+.standart-phrase li {
+	text-decoration: none;
+	list-style: none;
 }
 
 .en {
 	color: darkblue;
+}
+
+.SoT,
+.FT,
+.Question {
+	font-weight: 600;
 }
