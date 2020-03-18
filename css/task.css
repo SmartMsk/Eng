@@ -1,0 +1,78 @@
+.container {
+	max-width: 992px;
+}
+
+
+.bg-1 {
+	background-color: rgba(220, 220, 220, 0.4);
+}
+
+.bg-2 {
+	background-color: rgb(240, 255, 255);
+}
+
+ul {
+	list-style: none;
+	padding-inline-start: 1.25em;
+}
+
+section {
+	margin-right: -15px;
+	margin-left: -15px;
+	padding-left: 15px;
+}
+
+h4 {
+	padding-top: 0.8rem;
+	margin-bottom: 0;
+	padding-left: 1em;
+	padding-bottom: 0.5rem;
+}
+
+.task {
+	padding: 0.5em;
+}
+
+.answer {
+	margin: 0.5em 0;
+	padding-left: 1.5em;
+}
+
+/* Текстовые модификаторы */
+.sot,
+.ft,
+.question,
+.negative {
+	font-weight: 600;
+}
+
+.standart-phrase {
+	color: darkgreen;
+	text-transform: uppercase;
+
+}
+
+.standart-phrase li {
+	text-decoration: none;
+	list-style: none;
+}
+
+.en {
+	color: darkblue;
+}
+
+/* CSS - для Содержания - Content */
+.content a {
+	margin-top: 0.75rem;
+}
+
+.cont {
+	background-color: wheat;
+	height: 100vh;
+}
+
+
+.cont-1 {
+	background-color: #eff;
+	height: 100vh;
+}
