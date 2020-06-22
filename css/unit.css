@@ -46,6 +46,10 @@ ul {
 	padding-left: 1rem;
 }
 
+ul li {
+	margin-top: 5px;
+}
+
 ol {
 	padding-left: 2rem;
 }
