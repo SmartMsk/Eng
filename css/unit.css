@@ -66,3 +66,9 @@ ol {
 .primer {
 	margin-left: 0.5rem;
 }
+
+.title-1 {
+	font-size: 1.25rem;
+	text-transform: uppercase;
+	font-weight: 600;
+}
