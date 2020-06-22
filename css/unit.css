@@ -7,9 +7,15 @@ p {
 	margin-bottom: 0.5rem;
 }
 
+h5 {
+	text-transform: uppercase;
+	margin-top: 1rem;
+}
+
 h6 {
 	margin-top: 1rem;
 }
+
 
 a.disabled {
 	pointer-events: none;
@@ -19,7 +25,6 @@ a.disabled {
 	color: #888;
 	/* цвет текста серый */
 }
-
 
 /* Текстовые модификаторы */
 .sot,
@@ -35,10 +40,14 @@ a.disabled {
 
 }
 
-.standart-phrase li {
+ul {
 	text-decoration: none;
 	list-style: none;
+	padding-left: 1rem;
+}
 
+ol {
+	padding-left: 2rem;
 }
 
 .en {
