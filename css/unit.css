@@ -76,3 +76,7 @@ ol {
 	text-transform: uppercase;
 	font-weight: 600;
 }
+
+.content a {
+	margin-top: 0.35rem;
+}
