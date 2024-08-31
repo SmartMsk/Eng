@@ -10,7 +10,6 @@ tools: html, css, bootstrap4,
 Содержание: https://smartmsk.github.io/eng/unit/content.html
 
 Уроки:	https://smartmsk.github.io/eng/unit/u01.html 
-		https://smartmsk.github.io/eng/unit/u02.html
 
 
 
