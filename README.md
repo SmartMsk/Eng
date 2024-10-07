@@ -3,14 +3,10 @@
 Учимся Английскому и верстке одновременно. 
 
 tools: html, css, bootstrap4, 
-
+no js 
 
 Содержание:
 Титул: https://smartmsk.github.io/eng
 Содержание: https://smartmsk.github.io/eng/unit/content.html
 
 Уроки:	https://smartmsk.github.io/eng/unit/u01.html 
-
-
-
-
